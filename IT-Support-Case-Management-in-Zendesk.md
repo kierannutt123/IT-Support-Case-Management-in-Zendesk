@@ -15,13 +15,16 @@ In modern IT environments, effective support relies on structured ticket managem
 . Tags and categorisation to support reporting and workflow automation
 
 The screenshots below demonstrate how these features are reflected in the interface. The “View” page provides an overview of all active tickets requiring attention, allowing technicians to quickly assess which issues are pending, in progress, or resolved.
-[](Overview.png)
+
+![](Overview.png)
 
 The next screen shows a ticket preview, accessed by selecting the Edit option. From here, technicians can change a ticket’s priority level or incident type, add or remove tags, and draft a response. While replies can be made directly from this view, the full conversation history isn’t visible.
-[](QuickGlance.png)
+
+![](QuickGlance.png)
 
 The final screen shows the full ticket view, accessed by double-clicking a ticket. This displays the entire chat history, allowing technicians to review previous interactions and respond with full context.
-[](Ticket.png)
+
+![](Ticket.png)
 
 Together, these views illustrate how Zendesk streamlines ticket management, supports prioritisation, and enables clear communication between IT support staff and end users.
 
